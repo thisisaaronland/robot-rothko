@@ -1,6 +1,6 @@
 # robot-rothko
 
-![images/20170503-robot-rothko-electron.png]()
+![](images/20170503-robot-rothko-electron.png)
 
 ## Important
 
